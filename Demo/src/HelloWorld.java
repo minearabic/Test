@@ -6,5 +6,7 @@ public class HelloWorld
 		System.out.println("Hello World");
 		
 		int x = 10;
+		
+		System.out.println("x value equal: " + x);
 	}
 }
